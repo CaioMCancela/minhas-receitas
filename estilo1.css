@@ -1,0 +1,33 @@
+
+body,html {
+height:100%;
+margin:0;
+}
+header{
+background-color: #ECD509;
+margin:0;
+text-align: center;
+padding:20px; 
+}
+
+header h1{
+margin: 0;
+}
+section {
+text-align: center;
+margin: 50px;
+}
+section img{
+border-radius: 50px;
+width:280px;
+height:188px;
+}
+section p{
+font-size: 16px;
+font-family: "Abel", sans-serif;
+margin-top: 0 ;
+}
+footer{
+background-color: #ECD509;
+padding: 23px;
+}
